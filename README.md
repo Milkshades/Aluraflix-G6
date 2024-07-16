@@ -2,7 +2,7 @@
 
 # AluraFlix Challenge REACT ONE G6 🚀
 Challenge ONE Front-End + REACT: Creando una plataforma de vídeos.
-> **[Ver demostración](https://aluraflixoneg4.vercel.app/)**
+> **[Ver demostración](https://aluraflix-g6.vercel.app/)**
 
 El siguiente proyecto es parte de la formación de Front End de ONE - Oracle Next Generation con Alura Latam. **Se pone a prueba nuestro conocimiento sobre REACT  y el manejo de CRUD con AXIOS.**
 
